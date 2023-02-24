@@ -1,0 +1,9 @@
+a = input()
+numbers = []
+for i in range(0,a):
+    numbers.append((input()))
+
+arr = map(int,numbers)
+print(list(arr))
+
+
