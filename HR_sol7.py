@@ -1,0 +1,7 @@
+x= int(input("enter A:"))
+y= int(input("enter B:"))
+z= int(input())
+a = pow(x,y)
+b = pow(x,y,z)
+print(a)
+print(b)
